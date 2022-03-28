@@ -1,7 +1,19 @@
 .App {
   text-align: center;
+  display: flex;
+  align-content: center;
+  justify-content: center;
 }
-
+.Main-Controller-div{
+  border: 1px solid rgb(71, 70, 70);
+  width: 400px;
+  height: 300px;
+  background-color: gray;
+  border-radius: .5em;
+}
+h1{
+  text-shadow: 1px 1px rgba(219, 7, 7, 0.822) ;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

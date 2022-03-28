@@ -1,0 +1,46 @@
+
+input{
+   margin-top:20px;
+   width:200px;
+   height:35px;
+   border-radius: .3em;
+}
+input:hover{
+    border: 2px solid black;
+    border-radius: .5em;
+}
+p{
+    /* border: 1px solid rgb(87, 86, 86); */
+    width: 380px;
+    height: 30px;
+    margin-top:30px;
+    margin-left:10px;
+    margin-right:10px;
+    font-size: larger;
+    font-weight: bold;
+    color: rgba(182, 5, 5, 0.822); 
+}
+span{
+    color: black;
+    /* color:whitesmoke; */
+}
+button{
+    margin-top: 10px;
+    width:40px;
+    height: 40px;
+    font-size: x-large;
+    border-radius: .4em;
+}
+label{
+   font-size: large;
+   font-weight: bolder;
+   color: black;
+   /* color:whitesmoke; */
+}
+button:hover{
+    width:42px;
+    height:42px;
+    font-size: x-large;
+    color:whitesmoke;
+    background-color: rgb(71, 70, 70);
+}
